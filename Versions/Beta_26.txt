@@ -1,0 +1,46 @@
+<b size=40>KeyBox_Beta_26のアップデート</>
+<b size=35> 追加</>
+・楽曲ごとに個別に設定できるポーズオプションを追加
+・スライダーの右上に数値を直接設定できるフィールドを追加
+
+<b size=35> 変更</>
+・デフォルトの設定をいくつか変更
+・音源ファイルの読み込みタイミングが「起動時」の場合に、操作している間は読み込みが一時停止されるよう変更
+・音源ファイルの読み込みタイミングが「起動時」または「必要に応じて」の対象に、オンラインでの楽曲も追加
+・楽曲の音源ファイルや背景が読み込まれていない場合、音源の再生を0.5秒遅らせるよう変更
+・一部検索の評価点数のバランスを調整
+・タイピングの予告を2秒から4秒に変更
+
+<b size=35> 修正</>
+・解像度設定のバグを修正
+・曲を並び替えた際にレイヤーが想定と逆になる問題を修正
+・ローカルのリプレイ再生時にプレイヤーのネームプレートが変わらない問題を修正
+・一部リプレイの不整合を修正
+・一部動作を軽量化
+・不要なパッケージを削除
+
+<b size=40> 楽曲/譜面追加のお知らせ</>
+<b size=35> 追加楽曲</>
+10月25日(日)よりプレイ可能！
+<play song="boronaze_earth" color="0,255,255,255">地球の黒点 / ボロネーゼ</>
+<play song="centipede_soreha" color="0,255,255,255">其れは七不思議 / Centipede630 Kosai</>
+<play song="djkordai_chaosfunction" color="0,255,255,255">Chaos function / DJ KorDai</>
+<play song="ffuffusan_yaita" color="0,255,255,255">焼いたコーラスフルーツ / ァ</>
+<play song="foka_fictitious" color="0,255,255,255">FICTITIOUS / Foka。</>
+<play song="gurahamuScience" color="0,255,255,255">儚雪 / gurahamu</>
+<play song="iri_apotheosis" color="0,255,255,255">Åpotheosis €joker:) / iri;Isro feat.鏡音リン</>
+<play song="k7add13_omit1_artemis" color="0,255,255,255">ΑΡΤΕΜΙΣ / k省略</>
+<play song="kaylee_konochi" color="0,255,255,255">この地の絶景。 / Yamiteri & Kaylee Nitz</>
+<play song="lalot_-195_8" color="0,255,255,255">-195.8 / Lalot.</>
+<play song="m-on_royalriot" color="0,255,255,255">Royal Riot / M-ON</>
+<play song="shiena_negima_saterite" color="0,255,255,255">SΛTERiTE / Shiena + ねぎまさや</>
+<play song="ssmAbikyoukan" color="0,255,255,255">浴ビ共感 / さしみ。 feat.水音ラル</>
+<play song="ssmBerserkRobot" color="0,255,255,255">暴走したロボット / さしみ。</>
+<play song="ssmTrack" color="0,255,255,255">TRACK-CRACKer / さしみ。 feat.重音テト</>
+<play song="stellar_hanseihansui" color="0,255,255,255">半醒半睡 / Stellar feat. 宮舞モカ・mo xu・ここで終わり・カゼヒキ</>
+<play song="tdCRUSHTHEDEVIL" color="0,255,255,255">CRUSH THE DEVIL (IN MY BRAIN) / Thomas Dingwall a.k.a. td</>
+<play song="tdVELOCITY" color="0,255,255,255">VELOCITY / Thomas Dingwall a.k.a. td</>
+<play song="xaneiroOversubstitution" color="0,255,255,255">過置換 / d.j.ァネイロ feat.flower</>
+<b size=35> 譜面変更</>
+<play song="ssmCurrent" color="0,255,255,255">カレント <span color="255,0,0,255">@[Extreme]</>→<span color="0,255,255,255">@[Pandora]</>
+カレント (新規譜面)→<span color="255,0,0,255">@[Extreme]</></>
