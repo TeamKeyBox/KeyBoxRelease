@@ -30,7 +30,7 @@
 <play song="gurahamuScience" color="0,255,255,255">儚雪 / gurahamu</>
 <play song="iri_apotheosis" color="0,255,255,255">Åpotheosis €joker:) / iri;Isro feat.鏡音リン</>
 <play song="k7add13_omit1_artemis" color="0,255,255,255">ΑΡΤΕΜΙΣ / k省略</>
-<play song="kaylee_konochi" color="0,255,255,255">この地の絶景。 / Yamiteri & Kaylee Nitz</>
+<play song="kaylee_konochi" color="0,255,255,255">この地の絶景。 / Yamiteri &amp; Kaylee Nitz</>
 <play song="lalot_-195_8" color="0,255,255,255">-195.8 / Lalot.</>
 <play song="m-on_royalriot" color="0,255,255,255">Royal Riot / M-ON</>
 <play song="shiena_negima_saterite" color="0,255,255,255">SΛTERiTE / Shiena + ねぎまさや</>
